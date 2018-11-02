@@ -35,7 +35,7 @@ tags: javascript
 * Object.observe
 ```
 
-## Event Loop事件循环
+## Event Loop事件循环过程
 
 ```
 1. Call Stack中的同步任务被顺序执行。
@@ -45,7 +45,7 @@ tags: javascript
 5. 重复1步骤，并按此顺讯依次执行。
 ```
 
-## 实例说明：
+## 实例说明
 
 **任务代码：**
 
