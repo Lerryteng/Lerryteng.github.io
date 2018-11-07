@@ -37,6 +37,8 @@ tags: javascript
 4. 当Call Stack中任务执行完毕后，会先执行完微任务队列的所有程序，再从Task Queue中读取第一个任务结果到Call Stack中运行（此时为同步任务）。
 5. 重复1步骤，并按此顺讯依次执行。
 
+![](https://img-blog.csdnimg.cn/20181107110749956.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlcnJ5dGVuZw==,size_16,color_FFFFFF,t_70)
+
 ## 实例说明
 
 **任务代码：**
