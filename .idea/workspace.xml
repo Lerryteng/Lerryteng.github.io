@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01fb61ce-8538-4bc4-a422-d9abce040521" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-11-06-ES6-Module怎么用.md" afterPath="$PROJECT_DIR$/_posts/2018-11-06-ES6-Module怎么用.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-11-08-浏览器缓存了解一下.md" afterPath="$PROJECT_DIR$/_posts/2018-11-08-浏览器缓存了解一下.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,7 +24,7 @@
       <file leaf-file-name="2018-11-07-降频操作：防抖、节流.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-07-降频操作：防抖、节流.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="-721">
               <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
@@ -34,8 +34,18 @@
       <file leaf-file-name="2018-11-08-浏览器缓存了解一下.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-08-浏览器缓存了解一下.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="509">
+              <caret line="65" column="81" lean-forward="false" selection-start-line="65" selection-start-column="81" selection-end-line="65" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-11-06-ES6-Module怎么用.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-06-ES6-Module怎么用.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="49" column="80" lean-forward="true" selection-start-line="49" selection-start-column="80" selection-end-line="49" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -76,13 +86,13 @@
         <option value="$PROJECT_DIR$/_posts/2018-07-18-跨域及解决方案.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-25-Vue.js组件缓存.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-05-ES6-Module怎么用.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-06-ES6-Module怎么用.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-02-Event Loop是什么玩意儿.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-07-降频操作：防抖、节流.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-07-权限控制系统的实现思路.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-04-18-主题示例.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-06-ES6-Module怎么用.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-08-浏览器缓存了解一下.md" />
       </list>
     </option>
@@ -291,12 +301,12 @@
       <workItem from="1541572381908" duration="210000" />
       <workItem from="1541577067539" duration="1991000" />
       <workItem from="1541579900842" duration="2995000" />
-      <workItem from="1541643573032" duration="1357000" />
+      <workItem from="1541643573032" duration="1810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20272000" />
+    <option name="totallyTimeSpent" value="20725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -587,13 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-06-ES6-Module怎么用.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -618,14 +621,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-hello-jekyll.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-30-mathjax-test.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-主题示例.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-02-Event Loop是什么玩意儿.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -636,16 +631,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-07-降频操作：防抖、节流.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-721">
           <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-主题示例.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1141">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-06-ES6-Module怎么用.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="49" column="80" lean-forward="true" selection-start-line="49" selection-start-column="80" selection-end-line="49" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-08-浏览器缓存了解一下.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="509">
+          <caret line="65" column="81" lean-forward="false" selection-start-line="65" selection-start-column="81" selection-end-line="65" selection-end-column="81" />
           <folding />
         </state>
       </provider>
